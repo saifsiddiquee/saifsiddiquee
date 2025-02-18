@@ -1,7 +1,4 @@
-## Help Palestine 🇵🇸
-
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
-
 
 <h1 align="center">Hi 👋, I'm Saif Siddique Rayhan</h1>
 <h3 align="center">A passionate Mobile Application developer from Bangladesh</h3>
