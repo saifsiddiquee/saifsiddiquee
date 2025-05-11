@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifsiddiquee" alt="saifsiddiquee" /></a> </p>
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently working with **AI, Agent Development, Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://saifsiddiquee.github.io/](https://saifsiddiquee.github.io/)
 
-- 💬 Ask me about **Andorid, Flutter**
+- 💬 Ask me about **Andorid, Flutter, Artificaial Intelligence**
 
 - 📫 How to reach me **saif.rafi07@gmail.com**
 
